@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 export default function Footer() {
     return (
@@ -21,6 +22,7 @@ export default function Footer() {
                         </div>
                         <div class="col-md-4">
                             <h5>Follow Us</h5>
+
                             <a href="#" class="text-white me-2"><i class="bi bi-facebook"></i></a>
                             <a href="#" class="text-white me-2"><i class="bi bi-twitter"></i></a>
                             <a href="#" class="text-white me-2"><i class="bi bi-instagram"></i></a>
