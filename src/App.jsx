@@ -9,6 +9,8 @@ function App() {
 
   return (
     <>
+      <Header />
+      <Footer />
       <p>Hi</p>
     </>
   )
