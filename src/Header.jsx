@@ -1,5 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.css'; 
 // import { fab } from '@fortawesome/free-brands-svg-icons'
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
 export default function Header() {
   return (
     <>
