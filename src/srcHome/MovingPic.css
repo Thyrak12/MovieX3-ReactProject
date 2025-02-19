@@ -1,0 +1,23 @@
+.custom-btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #007bff;
+    /* Choose your desired color */
+    border: none;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-btn.active {
+    background-color: #0056b3;
+    /* Active button color */
+}
+
+.custom-btn:hover {
+    background-color: #0056b3;
+    /* Hover effect */
+}
